@@ -7,7 +7,7 @@ Currently working on demand forecasting and medical imaging projects using Pytho
 ## 🔨 Recent Projects
 - [Luxury Hotel Demand Pulse](RobertoMejiaLacayo/luxury-hotel-demand-pulse) - Automated demand forecasting with GCP/BigQuery
 - [Brain Tumor Detection](RobertoMejiaLacayo/CNN-Tumor-Detector-Via-Symmetry) - CNN classification using PyTorch
-- [AML Transaction Monitoring]TBD - Financial compliance alert system (⚠️ This project is a work in progress and contains experimental code)
+- [AML Transaction Monitoring](aml-alert-triage) - Financial compliance alert system (⚠️ This project is a work in progress and contains experimental code)
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL  
