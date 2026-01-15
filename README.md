@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Roberto 👋
 
-<!--
-**RobertoMejiaLacayo/RobertoMejiaLacayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst with experience in ML, cloud data pipelines, and business analytics.
 
-Here are some ideas to get you started:
+Currently working on demand forecasting and medical imaging projects using Python, SQL, and GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Recent Projects
+- [Luxury Hotel Demand Pulse](RobertoMejiaLacayo/luxury-hotel-demand-pulse) - Automated demand forecasting with GCP/BigQuery
+- [Brain Tumor Detection](RobertoMejiaLacayo/CNN-Tumor-Detector-Via-Symmetry) - CNN classification using PyTorch
+- [AML Transaction Monitoring]TBD - Financial compliance alert system (⚠️ This project is a work in progress and contains experimental code)
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**ML/Data:** PyTorch, pandas, scikit-learn  
+**Cloud:** Google Cloud Platform (BigQuery, Cloud Run)  
+**Tools:** Git, Jupyter, Looker Studio
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/rmejialacayo/)
+- 📍 Vancouver, BC
