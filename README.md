@@ -1,11 +1,12 @@
 # Hi, I'm Roberto 👋
 
-Data analyst with experience in ML, cloud data pipelines, and business analytics.
+Data analyst with experience in cloud data pipelines, and business analytics.
 
 Currently working on demand forecasting projects using Python, SQL, and GCP.
 
 ## 🔨 Recent Projects
 - [Luxury Hotel Demand Pulse](https://github.com/RobertoMejiaLacayo/luxury-hotel-demand-pulse) - Automated demand forecasting with GCP/BigQuery
+- [LendingClub Loan Performance Analytics](https://github.com/RobertoMejiaLacayo/LoanPerformance) - Analyzed 1.3 million peer-to-peer loans in GCP/Bigquery
 - [Brain Tumor Detection](https://github.com/RobertoMejiaLacayo/CNN-Tumor-Detector-Via-Symmetry) - CNN classification using PyTorch
 - [AML Transaction Monitoring](https://github.com/RobertoMejiaLacayo/aml-alert-triage) - Financial compliance alert system (⚠️ This project is a work in progress and contains experimental code)
 
